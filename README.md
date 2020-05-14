@@ -2,7 +2,7 @@
 
 ***Group Member: Guanzhong Chen, Shiyu Liu, Guansu Niu, Cangcheng Tang, Zhi Wang***  
 Final Blog Post: bit.ly/CNN_Compression  
-Final Blog Post on Next Journal: https://bit.ly/NJ_CNN_Compression  
+Final Blog Post on Next Journal: bit.ly/NJ_CNN_Compression  
 
 ## <center>An Achromatic Approach on Compressing CNN Filters Using Pattern-specific Receptive Fields</center>
 
