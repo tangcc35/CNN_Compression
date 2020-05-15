@@ -1,4 +1,4 @@
-# Canned_Pineapple Data-2040-Final-Project  ![](https://img.shields.io/badge/python-3.7+-pink.svg) ![](https://img.shields.io/badge/tensorflow-2.x-orange.svg) 
+# Canned_Pineapple Data-2040-Final-Project  ![](https://img.shields.io/badge/python-3.7+-pink.svg) ![](https://img.shields.io/badge/tensorflow-2.x-yellow.svg) 
 
 ***Group Member: Guanzhong Chen, [Shiyu Liu](https://github.com/shiyuliu1), [Guansu Niu](https://github.com/francesniu), [Cangcheng Tang](https://github.com/tangcc35), Zhi Wang***   
 *[Final Blog Post on Medium](https://bit.ly/CNN_Compression)*  
