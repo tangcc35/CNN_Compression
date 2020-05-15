@@ -12,7 +12,7 @@ In studies of image recognition, there are many gray-scale pictures, such as che
 ### Dataset
 This project used CIFAR-10 dataset which you probably known already. It consists of 60,000 32 by 32 pixels color images in 10 classes, with 6,000 images per class. Also The training to testing ratio is 5:1.
 
-### Test Accuracies   
+### Results  
 | Model                    | Image Type       | Val Accuracy | Number of Parameters |
 |--------------------------|------------------|--------------|----------------------|
 | Color Model              | Color Images     | 91.16%       | 995,230              |
